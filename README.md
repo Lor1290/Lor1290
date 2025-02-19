@@ -38,7 +38,6 @@
 
 ###
 <br clear="both">
-
-![snake gif](https://github.com/Lor1290/Lor1290/blob/output/github-contribution-grid-snake.gif) 
-
-###
+<div align="center">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Lor1290/Lor1290/output/github-contribution-grid-snake.svg" />
+</div>
