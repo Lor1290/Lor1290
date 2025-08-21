@@ -7,7 +7,7 @@
 
 <br /><br /><br /><br />
 
-<h1> 💻 About Me </h1>
+<h2> 💻 About Me </h2>
 <ul style="font-size: 1.2rem;">
   <li><strong>🔝 NASM Supremacy</strong></li>
   <li><strong>🏆 Maze RoboCup Jr. - Captain</strong></li>
@@ -17,7 +17,7 @@
 
 <br /><br /><br /><br />
 
-<h1> ⚙️ Languages and Tools </h1>
+<h2> ⚙️ Languages and Tools </h2>
 
 <!-- Single-line responsive container for icons -->
 <div style="display: flex; justify-content: space-between; align-items: center; overflow-x: auto; gap: 10px; padding: 10px; width: 100%;">
@@ -37,7 +37,7 @@
 
 <br /><br /><br /><br />
 
-<h1> 🔥 My Stats: </h1>
+<h2> 🔥 My Stats: </h2>
 
 <!-- Responsive Picture Element -->
 <picture>
