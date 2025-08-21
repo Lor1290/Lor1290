@@ -1,48 +1,55 @@
-<h1 align="center">POLI</h1>
-
-###
+<h1 align="center">POLI CODING</h1>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="60" alt="embeddedc logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" alt="opencv logo"  />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZXNlOXE5Ynh1c3Qxb3U4eGRjc2Fia2dvZDljank1OWxocDlybmptOCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/0mPjZuIu5JWQPWfYHF/giphy.gif" height="200"/>
 </div>
 
-###
+<br />
+<br />
+<br />
+<br />
+
+<h1> 💻 About Me </h1>
+<ul>
+  <li><h3> 🔝 NASM Supremacy </h3></li>
+  <li><h3> 🏆 Maze RoboCup Jr. - Captain </h3></li>
+  <li><h3> 🏆 Maze Simulation RoboCup Jr. - Member </h3></li>
+  <li><h3> 🦆 Full Stack Developer </h3></li>
+</ul>
+
+<br />
+<br />
+<br />
+<br />
+
+<h1> ⚙️ Language and tools </h1>
 
 <div align="center">
-  <a href="https://discord.gg/YOUR_INVITE_CODE" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="discord logo" />
-  </a>
-  <a href="mailto:lor12900000@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo" />
-  </a>
-  <a href="https://www.instagram.com/policoding?igsh=MWlucHNvbjZqNDh6" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" height="60"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" height="60"/>
+  <img width="12" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" height="60"/>
+  <img width="48" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="60"/>
+  <img width="12" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="60"/>
+  <img width="12" />        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="60"/>
+  <img width="12" />         
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" height="60"/>
+  <img width="12" />         
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="60"/>
+  <img width="12" />         
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="60"/>  
 </div>
 
-###
+<br />
+<br />
+<br />
+<br />
 
-<div align="center">
-</div>
-
-###
-
+<h1> 🔥 My Stats: </h1>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lor1290/Lor1290/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lor1290/Lor1290/output/pacman-contribution-graph.svg">
