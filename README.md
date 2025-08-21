@@ -1,4 +1,4 @@
-<h1 align="center">POLI CODING</h1>
+<h1 align="center">POLI</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZXNlOXE5Ynh1c3Qxb3U4eGRjc2Fia2dvZDljank1OWxocDlybmptOCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/0mPjZuIu5JWQPWfYHF/giphy.gif" height="200"/>
