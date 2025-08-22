@@ -22,7 +22,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center; overflow-x: auto; gap: 10px; padding: 10px; width: 100%;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" style="height: 50px; flex-shrink: 1;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" style="height: 50px; flex-shrink: 1;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" style="height: 50px; flex-shrink: 1;"/>     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" style="height: 50px; flex-shrink: 1;"/>            
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" style="height: 50px; flex-shrink: 1;"/>         
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" style="height: 50px; flex-shrink: 1;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="height: 50px; flex-shrink: 1;" />
