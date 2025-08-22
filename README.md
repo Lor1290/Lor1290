@@ -41,4 +41,4 @@
 
 <h2> 🔥 My Stats: </h2>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lor1290&theme=merko)]
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lor1290&theme=merko)
