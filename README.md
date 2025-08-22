@@ -19,10 +19,11 @@
 
 <h2> ⚙️ Languages and Tools </h2>
 
-<!-- Single-line responsive container for icons -->
 <div style="display: flex; justify-content: space-between; align-items: center; overflow-x: auto; gap: 10px; padding: 10px; width: 100%;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" style="height: 50px; flex-shrink: 1;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" style="height: 50px; flex-shrink: 1;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" style="height: 50px; flex-shrink: 1;"/>     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" style="height: 50px; flex-shrink: 1;"/>         
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" style="height: 50px; flex-shrink: 1;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="height: 50px; flex-shrink: 1;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" style="height: 50px; flex-shrink: 1;" />
@@ -31,7 +32,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" style="height: 50px; flex-shrink: 1;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" style="height: 50px; flex-shrink: 1;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="height: 50px; flex-shrink: 1;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" style="height: 50px; flex-shrink: 1;"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="height: 50px; flex-shrink: 1;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="height: 50px; flex-shrink: 1;"/>           
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" style="height: 50px; flex-shrink: 1;" />
 </div>
 
@@ -39,9 +42,4 @@
 
 <h2> 🔥 My Stats: </h2>
 
-<!-- Responsive Picture Element -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lor1290/Lor1290/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lor1290/Lor1290/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lor1290/Lor1290/output/pacman-contribution-graph.svg" style="width: 100%; height: auto; max-width: 800px; display: block; margin: 0 auto;" />
-</picture>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lor1290&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
