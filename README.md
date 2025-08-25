@@ -1,4 +1,4 @@
-<h1 align="center">POLI</h1>
+<h1 align="center">PoliCoding</h1>
 
 <!-- Fixed height for the first image -->
 <div align="center">
