@@ -12,7 +12,7 @@
   <li><strong>🔝 NASM Supremacy</strong></li>
   <li><strong>🏆 Maze RoboCup Jr. - Captain</strong></li>
   <li><strong>🏆 Maze Simulation RoboCup Jr. - Member</strong></li>
-  <li><strong>🦆 Full Stack Developer</strong></li>
+  <li><strong>🦆 Full Stack / Embedded Developer</strong></li>
 </ul>
 
 <br /><br /><br /><br />
