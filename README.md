@@ -36,9 +36,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="height: 50px; flex-shrink: 1;" />         
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" style="height: 50px; flex-shrink: 1;" />
 </div>
-
-<br /><br /><br /><br />
-
-<h2> 🔥 My Stats: </h2>
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lor1290&theme=merko)
